@@ -7,18 +7,6 @@ This project uses Python in a Docker container. Docker is required as a result.
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project/simple-todo-app
-```
-
 Build the Docker image
 
 ```bash
@@ -46,3 +34,4 @@ Stop the Docker container
 ## Acknowledgements
 
 - [Python Flask Beginner Tutorial - Todo App](https://www.python-engineer.com/posts/flask-todo-app/)
+
