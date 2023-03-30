@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Docker
+docker-compose.yml
+.docker
+
+# Virtual environment
+.env/
+.venv/
+venv/
+
+# Flask
+instance/
+.webassets-cache
+
+# sqlite file
+db.sqlite
+*/db.sqlite
