@@ -19,4 +19,4 @@ Both folders have their own python package requirements so each also encourages 
 
 ## Instructions
 
-Bring up the docker container you build in the `simple-todo-app`. Once that is ready, then review the code in the `robot-tests` folder. That will be the focus of the rest of this activity.
+Bring up the docker container you build in the `simple-todo-app` and confirm that you can reach the web page. Once that is ready, then review the code in the `robot-tests` folder. That will be the focus of the rest of this activity.
